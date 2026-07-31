@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "470749865242",
+    "project_id": "ks-talks",
+    "storage_bucket": "ks-talks.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470749865242:android:76f8d5b38d8d1596a778a3",
+        "android_client_info": {
+          "package_name": "com.example.ks_talks"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvaqWJPpy6OCeP37O880I0FzkAISGqqtg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
